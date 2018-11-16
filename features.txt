@@ -1,0 +1,37 @@
+- Placeable towers
+- WaveSpawner
+- UI (not finished)
+-----------------------
+- UI text values + scripts
+-----------------------
+- Change cursor back to normal when tower is builded
+-----------------------
+- UI score value
+- Towers can shoot
+-----------------------
+- Tower targeting improved
+- No crash on wave complete
+----------------------------
+- Main menu scene added
+	- Play works
+	- Tutorial does NOT
+	- Exit does NOT
+- Music on game start
+---------------------------- 038
+- Made soundManager(doesnt work yet)
+---------------------------- 040
+- soundManager somewhat works
+---------------------------- 042
+- soundManager works (arrows/on kill atleast)
+---------------------------- 050
+- merged with bradley
+- 2nd tower now throws rocks (more damage than arrows)
+- 3rd tower now fires fireballs(!) (more damage than rocks)
+- all towers have spawn animation
+- color fade enhanced to match the damage types
+---------------------------- 060 FINAL
+- towers no longer stackable (Bug fix)
+- enemy health difficulty increase
+- tutorial screen works
+----------------------------
+
